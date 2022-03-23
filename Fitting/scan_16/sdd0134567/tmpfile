@@ -1,0 +1,9 @@
+
+[PyMcaBatch]
+filelist = /net/memory4twinmic/store/project/twinmic/20195339/data/scan_16/xrf_flat_scan_16_aligned.h5
+
+[PyMcaBatch.selection]
+entry = /dante
+x = 
+y = /aligned/channel_SUM_2D_excluding-2
+m = 
