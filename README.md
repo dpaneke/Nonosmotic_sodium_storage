@@ -1,4 +1,4 @@
-# Nonosmotic_sodium_storage
+# Nonosmotic sodium storage
 This repository describes the ongoing scientific work on the deposition of nonosmotic sodium salts in muscles.
 The aim of this investigation is to find a way how to determine whether the given point of muscle is a cellular space or an interstitial space by spectral images.
 We will begin the exploration from the fact that sodium is easily washing away element, so it luminesces mostly from cellular space.
